@@ -6,6 +6,3 @@ contact_links:
   - name: Conta, login ou recorde que sumiu / Account, login or lost high score
     url: https://github.com/roqueos-games/.github/blob/main/SUPPORT.md
     about: Isso é do RoqueOS, não do jogo. / That belongs to RoqueOS, not the game.
-  - name: Falha de segurança / Security vulnerability
-    url: https://github.com/roqueos-games/.github/blob/main/SECURITY.md
-    about: Nunca em issue pública. / Never in a public issue.
