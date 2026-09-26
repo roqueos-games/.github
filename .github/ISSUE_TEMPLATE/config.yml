@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Pergunta ou ideia solta / Question or loose idea
+    url: https://github.com/orgs/roqueos-games/discussions
+    about: Converse nas Discussions da organização. / Talk in the organization's Discussions.
+  - name: Conta, login ou recorde que sumiu / Account, login or lost high score
+    url: https://github.com/roqueos-games/.github/blob/main/SUPPORT.md
+    about: Isso é do RoqueOS, não do jogo. / That belongs to RoqueOS, not the game.
+  - name: Falha de segurança / Security vulnerability
+    url: https://github.com/roqueos-games/.github/blob/main/SECURITY.md
+    about: Nunca em issue pública. / Never in a public issue.
