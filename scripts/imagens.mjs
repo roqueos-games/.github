@@ -7,7 +7,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { createRequire } from "node:module";
-import { ORG, REPOS, SLUGS, manifesto } from "./jogos.mjs";
+import { CAPA, ORG, REPOS, SLUGS, manifesto } from "./jogos.mjs";
 
 const { chromium } = createRequire(
   path.join(REPOS, "roqueos-front/package.json"),
@@ -90,18 +90,15 @@ for (const j of JOGOS) {
 }
 
 // 3. Banner do README: nome, uma linha, e seis capas em leque.
-const vitrine = ["roquecraft", "runa", "sinuca", "xadrez", "nova", "prisma"];
 const foco = { runa: "72% 40%", xadrez: "62% 70%", sinuca: "45% 60%" };
-const capas = vitrine
-  .map((s, i) => {
-    const x = 680 + i * 94;
-    const rot = -9 + i * 3.6;
-    return `<img src="data:image/jpeg;base64,${b64(`${REPOS}/${s}/public/capa.jpg`)}"
+const capas = CAPA.map((s, i) => {
+  const x = 680 + i * 94;
+  const rot = -9 + i * 3.6;
+  return `<img src="data:image/jpeg;base64,${b64(`${REPOS}/${s}/public/capa.jpg`)}"
       style="position:absolute;left:${x}px;top:${i % 2 ? 58 : 34}px;width:300px;height:188px;object-fit:cover;object-position:${foco[s] || "50% 50%"};z-index:${10 - i};
       border-radius:14px;transform:rotate(${rot}deg);box-shadow:0 14px 34px rgba(0,0,0,.55);
       border:3px solid rgba(255,255,255,.14)">`;
-  })
-  .join("");
+}).join("");
 await foto(
   page,
   `<div style="position:relative;width:1280px;height:320px;background:${FUNDO};overflow:hidden">

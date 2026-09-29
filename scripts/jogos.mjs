@@ -30,6 +30,17 @@ export const GRUPOS = [
   },
 ];
 
+// Os seis jogos da capa, em leque. Editorial como os grupos; o gerar.mjs reprova jogo da capa
+// que não esteja na página.
+export const CAPA = [
+  "roquecraft",
+  "runa",
+  "sinuca",
+  "xadrez",
+  "nova",
+  "prisma",
+];
+
 export const SLUGS = GRUPOS.flatMap((g) => g.jogos);
 if (SLUGS.length !== new Set(SLUGS).size)
   throw new Error("jogo repetido em GRUPOS");
