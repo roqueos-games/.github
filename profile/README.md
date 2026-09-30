@@ -14,10 +14,9 @@ _English below._
 
 ### Mundos
 
-|                                                                                                                                      | Jogo                                                          | O que é                                                                                                             |                                                  |
-| :----------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/roqueos-games/.github/main/profile/icones/roquecraft.png" width="40" height="40" alt=""> | [**RoqueCraft**](https://github.com/roqueos-games/roquecraft) | Mundo de blocos infinito: explore biomas, minere, construa e sobreviva, sozinho ou online com amigos.               | [Jogar](https://roqueos.com.br/jogar/roquecraft) |
-|    <img src="https://raw.githubusercontent.com/roqueos-games/.github/main/profile/icones/runa.png" width="40" height="40" alt="">    | [**RagnaRoque**](https://github.com/roqueos-games/runa)       | Action-RPG isométrico 3D: escolha entre 4 classes, explore um mundo por portais, evolua com talentos e colete loot. |    [Jogar](https://roqueos.com.br/jogar/runa)    |
+|                                                                                                                                      | Jogo                                                          | O que é                                                                                               |                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/roqueos-games/.github/main/profile/icones/roquecraft.png" width="40" height="40" alt=""> | [**RoqueCraft**](https://github.com/roqueos-games/roquecraft) | Mundo de blocos infinito: explore biomas, minere, construa e sobreviva, sozinho ou online com amigos. | [Jogar](https://roqueos.com.br/jogar/roquecraft) |
 
 ### Tabuleiro e mesa
 
@@ -112,10 +111,9 @@ phone and TV.
 
 ### Worlds
 
-|                                                                                                                                      | Game                                                          | What it is                                                                                                     |                                                 |
-| :----------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | :---------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/roqueos-games/.github/main/profile/icones/roquecraft.png" width="40" height="40" alt=""> | [**RoqueCraft**](https://github.com/roqueos-games/roquecraft) | Infinite block world: explore biomes, mine, build and survive, solo or online with friends.                    | [Play](https://roqueos.com.br/jogar/roquecraft) |
-|    <img src="https://raw.githubusercontent.com/roqueos-games/.github/main/profile/icones/runa.png" width="40" height="40" alt="">    | [**RagnaRoque**](https://github.com/roqueos-games/runa)       | A 3D isometric action-RPG: pick one of 4 classes, explore a world through portals, grow with talents and loot. |    [Play](https://roqueos.com.br/jogar/runa)    |
+|                                                                                                                                      | Game                                                          | What it is                                                                                  |                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | :---------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/roqueos-games/.github/main/profile/icones/roquecraft.png" width="40" height="40" alt=""> | [**RoqueCraft**](https://github.com/roqueos-games/roquecraft) | Infinite block world: explore biomes, mine, build and survive, solo or online with friends. | [Play](https://roqueos.com.br/jogar/roquecraft) |
 
 ### Board and table
 

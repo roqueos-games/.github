@@ -12,7 +12,7 @@ export const ORG = path.resolve(
 export const REPOS = path.resolve(ORG, "..");
 
 export const GRUPOS = [
-  { pt: "Mundos", en: "Worlds", jogos: ["roquecraft", "runa"] },
+  { pt: "Mundos", en: "Worlds", jogos: ["roquecraft"] },
   {
     pt: "Tabuleiro e mesa",
     en: "Board and table",
@@ -34,7 +34,7 @@ export const GRUPOS = [
 // que não esteja na página.
 export const CAPA = [
   "roquecraft",
-  "runa",
+  "skystack",
   "sinuca",
   "xadrez",
   "nova",

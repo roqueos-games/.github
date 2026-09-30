@@ -12,7 +12,7 @@
       "sha256:icone"
     ]
   },
-  "capa": ["roquecraft", "runa", "sinuca", "xadrez", "nova", "prisma"],
+  "capa": ["roquecraft", "skystack", "sinuca", "xadrez", "nova", "prisma"],
   "itens": [
     {
       "repo": "2048",
@@ -168,15 +168,8 @@
     },
     {
       "repo": "runa",
-      "tipo": "jogo",
-      "grupo": "Mundos",
-      "valores": {
-        "nome.pt-BR": "RagnaRoque",
-        "nome.en-US": "RagnaRoque",
-        "descricao.pt-BR": "RagnaRoque, action-RPG isométrico 3D: escolha entre 4 classes, explore um mundo por portais, evolua com talentos e colete loot.",
-        "descricao.en-US": "RagnaRoque, a 3D isometric action-RPG: pick one of 4 classes, explore a world through portals, grow with talents and loot.",
-        "sha256:icone": "95d16634f29dd9e6"
-      }
+      "tipo": "fora",
+      "motivo": "privado"
     },
     {
       "repo": "sinuca",
