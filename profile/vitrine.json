@@ -23,8 +23,13 @@
         "nome.en-US": "2048",
         "descricao.pt-BR": "Deslize as peças, junte os números iguais e chegue à peça 2048.",
         "descricao.en-US": "Slide the tiles, merge matching numbers and reach the 2048 tile.",
-        "sha256:icone": "8a804851b1ec3afb"
+        "sha256:icone": "5de158ec255b1243"
       }
+    },
+    {
+      "repo": "agentolandia",
+      "tipo": "fora",
+      "motivo": "privado"
     },
     {
       "repo": "breakout",
@@ -35,7 +40,7 @@
         "nome.en-US": "Breakout",
         "descricao.pt-BR": "Rebata a bola, quebre todos os tijolos, faça combos e pegue power-ups.",
         "descricao.en-US": "Bounce the ball, smash every brick, chain combos and grab power-ups.",
-        "sha256:icone": "f2529c519c5cf03d"
+        "sha256:icone": "8304b13f3b855c52"
       }
     },
     {
@@ -57,7 +62,7 @@
         "nome.en-US": "Checkers",
         "descricao.pt-BR": "Damas brasileiras, captura obrigatória e dama voadora, online por QR/código ou local.",
         "descricao.en-US": "Brazilian draughts, mandatory capture and flying kings, online by QR/code or local.",
-        "sha256:icone": "b9d98a94182b2c20"
+        "sha256:icone": "3654a8634912d9c7"
       }
     },
     {
@@ -69,7 +74,7 @@
         "nome.en-US": "EKO",
         "descricao.pt-BR": "Plane por uma caverna escura onde só o eco revela as paredes",
         "descricao.en-US": "Glide through a pitch-black cave where only echoes reveal the walls",
-        "sha256:icone": "5bdd754d69fe669b"
+        "sha256:icone": "35a0c6e7fc897de7"
       }
     },
     {
@@ -86,7 +91,7 @@
         "nome.en-US": "Memory",
         "descricao.pt-BR": "Vire as cartas e encontre todos os pares no menor número de jogadas.",
         "descricao.en-US": "Flip the cards and match every pair in as few moves as possible.",
-        "sha256:icone": "2db4a2d0e6da9872"
+        "sha256:icone": "51a0997e1ed85098"
       }
     },
     {
@@ -98,7 +103,7 @@
         "nome.en-US": "3D Tic-Tac-Toe",
         "descricao.pt-BR": "Jogo da velha em 3D num cubo 4×4×4 contra a IA, alinhe 4 em qualquer direção.",
         "descricao.en-US": "3D tic-tac-toe on a 4×4×4 cube against the AI, line up four in any direction.",
-        "sha256:icone": "4566dfcee0aee22b"
+        "sha256:icone": "98aa5b478b4492c8"
       }
     },
     {
@@ -115,7 +120,7 @@
         "nome.en-US": "LUMEN",
         "descricao.pt-BR": "Guie um enxame de luzes vivas com flocking real e fuja das sombras",
         "descricao.en-US": "Steer a living swarm of lights with real flocking and outrun the shadows",
-        "sha256:icone": "829be308538b3322"
+        "sha256:icone": "fb67ab60cf4bdef2"
       }
     },
     {
@@ -127,7 +132,7 @@
         "nome.en-US": "NEXO",
         "descricao.pt-BR": "Trace uma única linha que liga os números em ordem e preenche todo o grid, puzzle procedural com fases",
         "descricao.en-US": "Draw one line that links the numbers in order and fills the whole grid, a procedural puzzle with phases",
-        "sha256:icone": "4bb53779b2b6fe2e"
+        "sha256:icone": "6665d2d3eafa6c7d"
       }
     },
     {
@@ -139,7 +144,7 @@
         "nome.en-US": "NOVA",
         "descricao.pt-BR": "Salte de órbita em órbita e fuja da supernova que vem atrás, com física de verdade.",
         "descricao.en-US": "Slingshot from orbit to orbit and outrun the supernova",
-        "sha256:icone": "7592d220e23bcd3f"
+        "sha256:icone": "86b9b3609fd0ab2c"
       }
     },
     {
@@ -149,9 +154,9 @@
       "valores": {
         "nome.pt-BR": "PRISMA",
         "nome.en-US": "PRISMA",
-        "descricao.pt-BR": "Encaixe as peças 3D que caem e limpe linhas para pontuar.",
-        "descricao.en-US": "Fit the falling 3D blocks and clear lines to score.",
-        "sha256:icone": "ea74d09ba30697ab"
+        "descricao.pt-BR": "Encaixe peças no poço de 10 por 20 células com visual 3D e complete linhas para pontuar.",
+        "descricao.en-US": "Fit pieces in a 10 by 20 cell well rendered in 3D and clear lines to score.",
+        "sha256:icone": "75fafc86564acec8"
       }
     },
     {
@@ -163,7 +168,7 @@
         "nome.en-US": "RoqueCraft",
         "descricao.pt-BR": "Mundo de blocos infinito: explore biomas, minere, construa e sobreviva - sozinho ou online com amigos.",
         "descricao.en-US": "Infinite block world: explore biomes, mine, build and survive - solo or online with friends.",
-        "sha256:icone": "1f9da890da5b2b25"
+        "sha256:icone": "7964d19c5d28c98c"
       }
     },
     {
@@ -180,7 +185,7 @@
         "nome.en-US": "8-Ball Pool",
         "descricao.pt-BR": "Sinuca 8-ball em 3D num bar, física real, contra a IA (com níveis) ou local.",
         "descricao.en-US": "3D 8-ball pool in a bar, real physics, vs the AI (with levels) or local.",
-        "sha256:icone": "4dcc785299637699"
+        "sha256:icone": "adcbdc8b8ea4ccda"
       }
     },
     {
@@ -192,7 +197,7 @@
         "nome.en-US": "SkyStack",
         "descricao.pt-BR": "Jogo de empilhar blocos 3D: suba até o espaço, e cada erro deixa a torre mais fina.",
         "descricao.en-US": "3D block-stacking game, climb all the way to space",
-        "sha256:icone": "033613cb063dacf5"
+        "sha256:icone": "d1c0c7c109825977"
       }
     },
     {
@@ -204,7 +209,7 @@
         "nome.en-US": "Snake",
         "descricao.pt-BR": "Cresça a cobra neon comendo, sem bater nas paredes ou na cauda.",
         "descricao.en-US": "Grow the neon snake by eating, don't hit the walls or your tail.",
-        "sha256:icone": "8987a62e1039ed81"
+        "sha256:icone": "8408a9522b9a48b0"
       }
     },
     {
@@ -216,7 +221,7 @@
         "nome.en-US": "TORA",
         "descricao.pt-BR": "Encaixe blocos de madeira 3D e complete fileiras para limpá-las e passar de nível.",
         "descricao.en-US": "Fit 3D wooden blocks and complete lines to clear them and level up.",
-        "sha256:icone": "88fb506fe4691a4f"
+        "sha256:icone": "3200ff01429c22bc"
       }
     },
     {
@@ -228,7 +233,7 @@
         "nome.en-US": "Chess",
         "descricao.pt-BR": "Xadrez completo, jogue online por QR/código ou local no mesmo aparelho.",
         "descricao.en-US": "Full chess, play online by QR/code or locally on one device.",
-        "sha256:icone": "088b6cfd2e53fa27"
+        "sha256:icone": "5445a735558bba50"
       }
     }
   ]
