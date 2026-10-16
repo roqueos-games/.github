@@ -12,34 +12,14 @@ export const ORG = path.resolve(
 export const REPOS = path.resolve(ORG, "..");
 
 export const GRUPOS = [
+  // Desde 16/10/2026 (Goal 80, decisão do fundador) os outros quinze jogos são privados, para
+  // poderem usar modelos 3D de mercado; repo privado não entra na página.
   { pt: "Mundos", en: "Worlds", jogos: ["roquecraft"] },
-  {
-    pt: "Tabuleiro e mesa",
-    en: "Board and table",
-    jogos: ["xadrez", "damas", "jogo-da-velha-3d", "sinuca"],
-  },
-  {
-    pt: "Arcade 3D",
-    en: "3D arcade",
-    jogos: ["skystack", "prisma", "tora", "nova", "eko", "lumen", "snake"],
-  },
-  {
-    pt: "Clássicos 2D",
-    en: "2D classics",
-    jogos: ["2048", "breakout", "jogo-da-memoria", "nexo"],
-  },
 ];
 
-// Os seis jogos da capa, em leque. Editorial como os grupos; o gerar.mjs reprova jogo da capa
+// Os jogos da capa, em leque. Editorial como os grupos; o gerar.mjs reprova jogo da capa
 // que não esteja na página.
-export const CAPA = [
-  "roquecraft",
-  "skystack",
-  "sinuca",
-  "xadrez",
-  "nova",
-  "prisma",
-];
+export const CAPA = ["roquecraft"];
 
 export const SLUGS = GRUPOS.flatMap((g) => g.jogos);
 if (SLUGS.length !== new Set(SLUGS).size)

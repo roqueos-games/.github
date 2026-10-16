@@ -4,8 +4,9 @@
 
 Os jogos do [RoqueOS](https://roqueos.com.br), o sistema operacional que roda inteiro no
 navegador. Cada jogo mora no próprio repositório, fala com o sistema só pelo
-[`jogo-sdk`](https://github.com/roqueos-games/jogo-sdk) e tem o código aberto sob MIT. Todos
-rodam de graça em [roqueos.com.br/jogos](https://roqueos.com.br/jogos), no computador, no
+[`jogo-sdk`](https://github.com/roqueos-games/jogo-sdk). O SDK e o RoqueCraft têm o código
+aberto sob MIT; os outros jogos são fechados desde 16/10/2026, para poderem usar modelos 3D de
+mercado cuja licença não permite repositório aberto, e ficam fora desta lista. Todos rodam de graça em [roqueos.com.br/jogos](https://roqueos.com.br/jogos), no computador, no
 celular e na TV.
 
 _English below._
@@ -35,8 +36,8 @@ flowchart LR
 Precisa de Node 22 ou mais novo e do Yarn 1.22.
 
 ```sh
-git clone https://github.com/roqueos-games/2048.git
-cd 2048
+git clone https://github.com/roqueos-games/roquecraft.git
+cd roquecraft
 yarn install --ignore-scripts
 yarn dev
 ```
@@ -58,9 +59,9 @@ request.
 
 ## Licença
 
-Código e arte própria sob MIT. Asset de terceiro segue a licença registrada no `ASSETS.md` de
-cada repo. O RoqueOS em si é fechado, e alguns jogos dele também são; esses ficam fora desta
-lista.
+Código e arte própria dos repos abertos sob MIT. Asset de terceiro segue a licença registrada
+no `ASSETS.md` de cada repo. O RoqueOS em si é fechado, e os jogos fechados ficam fora desta
+lista; o que eles publicaram sob MIT até 16/10/2026 continua MIT.
 
 ---
 
@@ -68,8 +69,9 @@ lista.
 
 The games of [RoqueOS](https://roqueos.com.br), an operating system that runs entirely in the
 browser. Each game lives in its own repository, talks to the system only through the
-[`jogo-sdk`](https://github.com/roqueos-games/jogo-sdk) and is open source under MIT. All of
-them are free to play at [roqueos.com.br/jogos](https://roqueos.com.br/jogos), on desktop,
+[`jogo-sdk`](https://github.com/roqueos-games/jogo-sdk). The SDK and RoqueCraft are open
+source under MIT; the other games are closed since 16/10/2026, so they can use third-party 3D
+models whose license does not allow a public repository. All of them are free to play at [roqueos.com.br/jogos](https://roqueos.com.br/jogos), on desktop,
 phone and TV.
 
 <details>
@@ -90,4 +92,4 @@ Portuguese. Questions and ideas go to
 [Discussions](https://github.com/orgs/roqueos-games/discussions); vulnerabilities go through
 [SECURITY.md](https://github.com/roqueos-games/.github/blob/main/SECURITY.md), never a public
 issue. Code and original art are MIT; third-party assets follow the license listed in each
-repo's `ASSETS.md`.
+repo's `ASSETS.md`. Closed games are not listed here.
